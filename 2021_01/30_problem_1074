@@ -25,6 +25,6 @@ int main(){
     cin >> N >> r >> c;
  
     recursion(0, 0, pow(2, N));
- 
+
     return 0;
 }
