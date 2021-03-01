@@ -28,7 +28,6 @@ int main(void)
 		cin >> cost[i];
 	cin >> money; // 정보입력
 	
-	
 	return 0;
 }
 
